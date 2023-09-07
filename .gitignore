@@ -7,3 +7,4 @@ index.php
 *.ipr
 *.iml
 *.iws
+.phpunit.result.cache
